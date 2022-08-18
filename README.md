@@ -1,7 +1,7 @@
-# Marketing-Analyst
+# A/B Test
 
 
-✨ ✨ Solution for Marketing Analyst task for Turing College✨ ✨ 
+✨ ✨ Solution for A/B test task for Turing College✨ ✨ 
 
 <a href = 'https://docs.google.com/spreadsheets/d/1er1NWPLURBtYTq-TYBxLCgbJ2l7mfrcfg-aPHvM_a60/edit?usp=sharing
 '> The dashboard with visualisations.</a> It explains the main insights of the A/B testing analysis.
